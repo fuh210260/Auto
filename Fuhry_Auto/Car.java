@@ -155,13 +155,16 @@ public class Car {
     }
     
     public void changeDachtraeger() {
+        /*
         if(dachtraeger == false) {
             setDachtraeger(true);
         }
         else {
             setDachtraeger(false);
         }
-    }
+        */
+        setDachtraeger(!dachtraeger);
+    }  
     
     public void tuning() {
         setHP(hp + 10);        
