@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ @author\ Rene\ Fuhry\n
+comment1.params=
+comment1.target=Car()
+comment2.params=brandNew
+comment2.target=void\ setBrand(java.lang.String)
+comment3.params=modelNew
+comment3.target=void\ setModel(java.lang.String)
+comment4.params=hpNew
+comment4.target=void\ setHP(int)
+comment5.params=cabrioNew
+comment5.target=void\ setCabrio(boolean)
+comment6.params=dachtraegerNew
+comment6.target=void\ setDachtraeger(boolean)
+comment7.params=buildyearNew
+comment7.target=void\ setBuildyear(int)
+comment8.params=kmNew
+comment8.target=void\ setKm(int)
+numComments=9
